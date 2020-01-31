@@ -9,12 +9,12 @@
   },
   "scripts": {
     "start": "node index.js"
-    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "Express": "^3.0.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "passport-spotify": "^1.1.0"
   }
 }
